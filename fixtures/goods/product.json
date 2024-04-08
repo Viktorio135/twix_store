@@ -1,0 +1,92 @@
+[
+    {
+        "model": "goods.product",
+        "pk": 1,
+        "fields": {
+            "name": "Air Jordan 1 Elevate Low(жёлтый)",
+            "slug": "air-jordan-1-elevate-lowzheltyi",
+            "image": "goods_images/68795bbf-6ebd-445f-8a2e-63fd7af4e160.jpg",
+            "price": "100.00",
+            "discount": "5.00",
+            "quantitiy": 30,
+            "description": "Описание",
+            "number_of_sales": 0,
+            "category": 2
+        }
+    },
+    {
+        "model": "goods.product",
+        "pk": 2,
+        "fields": {
+            "name": "Air Jordan 1 High (чёрно-зелёные)",
+            "slug": "air-jordan-1-high-cherno-zelenye",
+            "image": "goods_images/7cc11fbe-7583-482a-b192-56ae318e038a.jpg",
+            "price": "200.00",
+            "discount": "0.00",
+            "quantitiy": 300,
+            "description": "Описание",
+            "number_of_sales": 0,
+            "category": 3
+        }
+    },
+    {
+        "model": "goods.product",
+        "pk": 3,
+        "fields": {
+            "name": "Air Jordan 1 Low Flyease(красный)",
+            "slug": "air-jordan-1-low-flyeasekrasnyi",
+            "image": "goods_images/57ec3ba6-4b64-4e60-bea1-18d688b891b0.jpg",
+            "price": "350.00",
+            "discount": "10.00",
+            "quantitiy": 20,
+            "description": "Описание",
+            "number_of_sales": 0,
+            "category": 2
+        }
+    },
+    {
+        "model": "goods.product",
+        "pk": 4,
+        "fields": {
+            "name": "Air Jordan 1 Low G(оранжевый)",
+            "slug": "air-jordan-1-low-goranzhevyi",
+            "image": "goods_images/c3cfa015-fa0e-4151-becd-e8f43733aa5d.jpg",
+            "price": "120.00",
+            "discount": "0.00",
+            "quantitiy": 5,
+            "description": "Описание",
+            "number_of_sales": 0,
+            "category": 2
+        }
+    },
+    {
+        "model": "goods.product",
+        "pk": 5,
+        "fields": {
+            "name": "Air Jordan 1 Low G(Чёрный)",
+            "slug": "air-jordan-1-low-gchernyi",
+            "image": "goods_images/29588563-bfe4-4a68-a913-b86a6c221c23.jpg",
+            "price": "169.00",
+            "discount": "0.00",
+            "quantitiy": 0,
+            "description": "Описание",
+            "number_of_sales": 0,
+            "category": 2
+        }
+    },
+    {
+        "model": "goods.product",
+        "pk": 6,
+        "fields": {
+            "name": "Air Jordan 1 Mid black",
+            "slug": "air-jordan-1-mid-black",
+            "image": "goods_images/fcb958a3-6f82-427c-843a-def161039d41.jpg",
+            "price": "300.00",
+            "discount": "0.00",
+            "quantitiy": 0,
+            "description": "Описание",
+            "number_of_sales": 0,
+            "category": 1
+        }
+    }
+]

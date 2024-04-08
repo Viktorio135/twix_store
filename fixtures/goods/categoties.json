@@ -1,0 +1,74 @@
+[
+    {
+        "model": "goods.categories",
+        "pk": 1,
+        "fields": {
+            "name": "air jordan mid",
+            "slug": "air-jordan-mid"
+        }
+    },
+    {
+        "model": "goods.categories",
+        "pk": 2,
+        "fields": {
+            "name": "Air Jordan Low",
+            "slug": "air-jordan-low"
+        }
+    },
+    {
+        "model": "goods.categories",
+        "pk": 3,
+        "fields": {
+            "name": "Air Jordan High",
+            "slug": "air-jordan-high"
+        }
+    },
+    {
+        "model": "goods.categories",
+        "pk": 4,
+        "fields": {
+            "name": "Air Force",
+            "slug": "air-force"
+        }
+    },
+    {
+        "model": "goods.categories",
+        "pk": 5,
+        "fields": {
+            "name": "Air Max",
+            "slug": "air-max"
+        }
+    },
+    {
+        "model": "goods.categories",
+        "pk": 6,
+        "fields": {
+            "name": "Blazer Mid",
+            "slug": "blazer-mid"
+        }
+    },
+    {
+        "model": "goods.categories",
+        "pk": 7,
+        "fields": {
+            "name": "Blazer High",
+            "slug": "blazer-high"
+        }
+    },
+    {
+        "model": "goods.categories",
+        "pk": 8,
+        "fields": {
+            "name": "Blazer Low",
+            "slug": "blazer-low"
+        }
+    },
+    {
+        "model": "goods.categories",
+        "pk": 9,
+        "fields": {
+            "name": "Dunk High",
+            "slug": "dunk-high"
+        }
+    }
+]
