@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+.profile {
+    width: 500px;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.profile img {
+    width: 100%;
+    height: auto;
+    border-radius: 50%;
+}
+
+.profile h1 {
+    text-align: center;
+    color: #0a0a0a;
+}
+
+.profile p {
+    text-align: center;
+    color: #000000;
+}
+
+.profile .info {
+    margin-top: 20px;
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+.profile .div-logout {
+    margin-top: 20px;
+    font-size: 18px;
+    line-height: 1.5;
+}
